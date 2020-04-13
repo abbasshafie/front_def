@@ -1,0 +1,18 @@
+@media only screen and (max-width: 600px)
+{
+    
+    .header__title{
+        font-size: 85px;
+        &:after{
+            font-size: 12px;
+        }
+    }
+
+    .header__bg{
+        background-size: auto 120%;
+    }
+    .about__img-box {
+        padding: 0 37px;
+    }
+
+}

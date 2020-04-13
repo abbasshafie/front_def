@@ -1,0 +1,15 @@
+@media only screen and (max-width: 480px)
+{
+
+    .header__title{
+        font-size: 59px;
+        &:after{
+            font-size: 9px;
+        }
+    }
+
+    .works-slider{
+        height: 450px;
+    }
+
+}
